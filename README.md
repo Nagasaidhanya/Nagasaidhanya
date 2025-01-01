@@ -52,7 +52,7 @@
 
 ### Certifications
 ![Microsoft Azure AI-900](https://img.shields.io/badge/Microsoft%20Azure%20AI--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Nvidia](https://img.shields.io/badge/Nvidia--339933??style=for-the-badge&logo=nvidia&logoColor=white)
+![Nvidia](https://img.shields.io/badge/Nvidia-339933??style=for-the-badge&logo=nvidia&logoColor=white)
 
 
 
