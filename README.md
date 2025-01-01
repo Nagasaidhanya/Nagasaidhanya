@@ -1,4 +1,4 @@
-# Hi there, I'm Dhanya👋
+# Hi there, I'm Dhanya 👋
 
 
 
@@ -9,9 +9,9 @@
 - 🔍 Always exploring new technologies, from **AI-driven insights** to crafting dynamic web applications.  
 - 🚀 My mission: To create impactful, real-world solutions that make technology work for everyone.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1GBE9MHd1EbF_PtOEg2Ip_&ust=1735840633760000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDExbWM1YoDFQAAAAAdAAAAABAJ" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="300">
 
-
+- 📫 How to reach me: [bandarunagasaidhanya@gmail.com](mailto:bandarunagasaidhanya@gmail.com)
 
 
 ## 🛠️ Skills
@@ -34,7 +34,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MONGODB-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -53,7 +53,7 @@
 
 ### Certifications
 ![Microsoft Azure AI-900](https://img.shields.io/badge/Microsoft%20Azure%20AI--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Nvidia](https://img.shields.io/badge/Nvidia%2076B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Nvidia](https://img.shields.io/badge/Nvidia--0089D6??style=for-the-badge&logo=nvidia&logoColor=white)
 
 
 
