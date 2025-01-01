@@ -27,7 +27,6 @@
 
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -53,7 +52,7 @@
 
 ### Certifications
 ![Microsoft Azure AI-900](https://img.shields.io/badge/Microsoft%20Azure%20AI--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Nvidia](https://img.shields.io/badge/Nvidia--0089D6??style=for-the-badge&logo=nvidia&logoColor=white)
+![Nvidia](https://img.shields.io/badge/Nvidia--339933??style=for-the-badge&logo=nvidia&logoColor=white)
 
 
 
